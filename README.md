@@ -1,1 +1,2 @@
-# assessment-test-app
+string = "devopsassessment"
+print(len(string)
